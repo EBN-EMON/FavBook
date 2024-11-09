@@ -1,1 +1,1 @@
-# FavBook
+# FavBook (library management)
